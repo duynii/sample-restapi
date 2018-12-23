@@ -1,0 +1,27 @@
+{
+  "name": "sample-restapi",
+  "version": "1.0.0",
+  "description": "Just testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duynii/sample-restapi.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Dewey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duynii/sample-restapi/issues"
+  },
+  "homepage": "https://github.com/duynii/sample-restapi#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
